@@ -1,0 +1,63 @@
+(run)
+(def repl-env (reset! cemerick.austin.repls/browser-repl-env
+                      (cemerick.austin/repl-env)))
+(cemerick.austin.repls/cljs-repl repl-env)
+(js/alert "hi")
+(+ 2 1)
+(run)
+(def repl-env (reset! cemerick.austin.repls/browser-repl-env
+                      (cemerick.austin/repl-env)))
+(cemerick.austin.repls/cljs-repl repl-env)
+(js/alert "hi")
+(run)
+(def repl-env (reset! cemerick.austin.repls/browser-repl-env
+                      (cemerick.austin/repl-env)))
+(cemerick.austin.repls/cljs-repl repl-env)
+(+ 2 1)
+(def repl-env (reset! cemerick.austin.repls/browser-repl-env
+                      (cemerick.austin/repl-env)))
+(cemerick.austin.repls/cljs-repl repl-env)
+:cljs/quit
+(run)
+(cemerick.austin.repls/cljs-repl repl-env)
+(run)
+(def repl-env (reset! cemerick.austin.repls/browser-repl-env
+                      (cemerick.austin/repl-env)))
+(cemerick.austin.repls/cljs-repl repl-env)
+(js/alert "Salut!")
+:cljs/quit
+(cemerick.austin.repls/cljs-repl repl-env)
+js/alert
+:cljs/quit
+(cemerick.austin.repls/cljs-repl repl-env)
+(def repl-env (reset! cemerick.austin.repls/browser-repl-env
+                      (cemerick.austin/repl-env)))
+(cemerick.austin.repls/cljs-repl repl-env)
+:cljs/quit
+(run)
+:cljs/quit
+(def repl-env (reset! cemerick.austin.repls/browser-repl-env
+(run)
+(def repl-env (reset! cemerick.austin.repls/browser-repl-env
+                      (cemerick.austin/repl-env)))
+(cemerick.austin.repls/cljs-repl repl-env)
+(+ 2 1)
+(run)
+(def repl-env (reset! cemerick.austin.repls/browser-repl-env
+                      (cemerick.austin/repl-env)))
+repl-env
+(def repl-env (reset! cemerick.austin.repls/browser-repl-env
+                      (cemerick.austin/repl-env)))
+(run)
+(cemerick.austin.repls/cljs-repl repl-env)
+(js/alert "Salut!")
+(run)
+(def repl-env (reset! cemerick.austin.repls/browser-repl-env
+                       (cemerick.austin/repl-env)))
+(cemerick.austin.repls/cljs-repl repl-env)
+(js/alert "Salut!")
+cemerick.austin.bcrepl-sample
+cemerick.austin.bcrepl-sample/hello
+(cemerick.austin.bcrepl-sample/hello)
+:cljs/quit
+(run)
