@@ -20,4 +20,4 @@ Code used to demonstrate [Om](https://github.com/swannodette/om), a Clojurescrip
 
     Have a look at `src/cljs/om_lambdajam/core.cljs`. It contains the main app code. At the end of the file you'll find a comment block with the REPL commands used during the talk. Type these in the REPL or come up with some other examples that interact with the live app.
     
-    Feel free to start the REPL in an environment like Emacs over nREPL. That way you can evaluate forms straight from your buffer with no copying/pasting.
+    Feel free to start the REPL in an environment like Emacs over nREPL. That way you can evaluate forms straight from your editor with no copying/pasting.
