@@ -148,6 +148,8 @@
 
 ;; bREPL interaction examples
 (comment
+  (js/alert "Hi LambdaJam 2014!")
+
   (def app-state-copy @app-state)
 
   (reset! app-state  (update-in @app-state [:speakers]
